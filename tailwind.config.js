@@ -4,6 +4,9 @@ export default {
     "./index.html", "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
+    fontFamily: {
+      poppins: ['Poppins', 'sans-serif'],
+    },
     extend: {},
   },
   plugins: [],
