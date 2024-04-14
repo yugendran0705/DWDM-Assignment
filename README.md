@@ -1,3 +1,12 @@
+# Implemented ID3 Algorithm
+Steps to run on your localhost
+1. Clone the repo
+2. npm install
+3. npm run dev
+
+Make sure to give all the details in the box in the same format (case sensitive).
+The website is not responsive therefore try to open it in a laptop or desktop.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
