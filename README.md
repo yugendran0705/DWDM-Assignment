@@ -5,6 +5,7 @@ Steps to run on your localhost
 3. npm run dev
 
 Make sure to give all the details in the box in the same format (case sensitive).
+The website is not responsive therefore try to open it in a laptop or desktop.
 
 # React + Vite
 
